@@ -1,0 +1,29 @@
+{
+  "name": "client-side",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "cogo-toast": "^4.2.3",
+    "next": "10.0.9",
+    "nextjs-progressbar": "0.0.8",
+    "react": "16.8.0",
+    "react-bootstrap": "^1.5.2",
+    "react-data-table-component": "^6.11.7",
+    "react-dom": "16.8.0",
+    "react-horizontal-scrolling-menu": "^0.7.10",
+    "react-slick": "^0.28.1",
+    "recharts": "^2.0.8",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.16.0"
+  }
+}

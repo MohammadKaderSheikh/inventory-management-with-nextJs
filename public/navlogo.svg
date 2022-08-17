@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="561.999" height="196" viewBox="0 0 561.999 196">
+  <g id="Group_10" data-name="Group 10" transform="translate(-236.001 -509)">
+    <g id="wheelbarrow" transform="translate(236.001 471.816)">
+      <g id="Group_7" data-name="Group 7" transform="translate(57.77 118.313)">
+        <g id="Group_6" data-name="Group 6">
+          <path id="Path_1" data-name="Path 1" d="M158.678,221.441l-14.349-5.7a6.495,6.495,0,1,0-4.794,12.073l14.349,5.7a6.495,6.495,0,1,0,4.794-12.073Z" transform="translate(-135.436 -215.283)" fill="#cb4d85"/>
+        </g>
+      </g>
+      <g id="Group_9" data-name="Group 9" transform="translate(0 46.184)">
+        <g id="Group_8" data-name="Group 8">
+          <path id="Path_2" data-name="Path 2" d="M214.293,56.222l-20.382-8.095A27.317,27.317,0,0,0,158.44,63.433L113.281,177.149a24.156,24.156,0,0,0-15.7,3.811l22.827-57.481a6.5,6.5,0,0,0-3.639-8.433L47.117,87.386a6.5,6.5,0,0,0-8.433,3.639L13.146,155.334l-4.251-1.688A6.495,6.495,0,0,0,4.1,165.718L84.02,197.506a6.446,6.446,0,0,0,.7.229l2.093.831a24.077,24.077,0,1,0,38.538-16.623L170.512,68.228a14.327,14.327,0,0,1,18.6-8.028L209.5,68.294a6.495,6.495,0,0,0,4.795-12.073ZM82.8,182.993,25.218,160.129l23.141-58.273,57.577,22.865Zm38.272,22.187a11.087,11.087,0,1,1-6.212-14.4A11.014,11.014,0,0,1,121.067,205.18Z" transform="translate(0 -46.184)" fill="#cb4d85"/>
+        </g>
+      </g>
+    </g>
+    <text id="X" transform="translate(408 665)" fill="#303456" font-size="149" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">X</tspan></text>
+    <text id="_-STORE" data-name="-STORE" transform="translate(486 642)" fill="#cb4d85" font-size="89" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">-STORE</tspan></text>
+  </g>
+</svg>
